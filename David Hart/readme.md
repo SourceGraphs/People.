@@ -4,3 +4,4 @@ Home:
 
 best of:
 - [Don't Model the Problem](https://youtu.be/WcAWZGyB32U)
+- [Why you should learn Computer Science](https://youtu.be/8WUZdJ_qREY)
